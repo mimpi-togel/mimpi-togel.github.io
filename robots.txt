@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mimpi-togel.github.io/sitemap.xml
